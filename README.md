@@ -12,7 +12,6 @@ I'm passionate about programming and technology. I'm passionate about HTML, CSS,
 
 * Do you have any questions or projects you'd like to collaborate on? Don't hesitate! Contact me at my email address.
 
-<a href="https://www.youtube.com/c/https://www.youtube.com/@juniorcode_prog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@juniorcode_prog" height="30" width="40" /></a>
 
 ## 📋 Current Goals
 
