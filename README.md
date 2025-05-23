@@ -26,5 +26,5 @@ I'm passionate about programming and technology. I'm passionate about HTML, CSS,
 
 ## 📈 GitHub Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorCode=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorCode&show_icons=true)
 
