@@ -10,9 +10,9 @@ I'm passionate about programming and technology. I'm passionate about HTML, CSS,
 
 ## 📩 contact me
 
-*Do you have any questions or projects you'd like to collaborate on? Don't hesitate! Contact me at my email address.
+* Do you have any questions or projects you'd like to collaborate on? Don't hesitate! Contact me at my email address.
 
-![image]({BadgeURLHere})
+
 
 ## 📋 Current Goals
 
