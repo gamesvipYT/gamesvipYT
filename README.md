@@ -26,5 +26,5 @@ I'm passionate about programming and technology. I'm passionate about HTML, CSS,
 
 ## 📈 GitHub Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gamesvipYT=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigamesvipYT=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
