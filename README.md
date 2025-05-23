@@ -1,7 +1,7 @@
 ## Hi! I'm Sebastian Herrera 👋
 
 
-[![Texto alternativo]((https://github.com/user-attachments/assets/4d242d9c-b87e-48cb-ac82-e80ff8dac7f3)](#)
+![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/user-attachments/assets/98b50283-1709-4b49-b235-be36b046ef42)
 
 
 
