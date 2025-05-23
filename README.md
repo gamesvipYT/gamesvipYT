@@ -28,3 +28,4 @@ I'm passionate about programming and technology. I'm passionate about HTML, CSS,
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorCode&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCode&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
